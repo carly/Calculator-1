@@ -1,11 +1,17 @@
 def add(num1, num2):
-    return 10
+    """ Adds num1 + num2 returning the result"""
+    
+    return num1 + num2
 
 def subtract(num1, num2):
-    pass
+    """ Substracts num1 - num2 returning the result """
+
+    return num1 - num2
 
 def multiply(num1, num2):
-    pass
+    """ Multiplies num1 * num2 returning the result """
+
+    return num1 * num2
 
 def divide(num1, num2):
     pass
